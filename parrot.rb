@@ -1,1 +1,3 @@
-def parrot ()
+def parrot(name = "Squawk!")
+  puts "#{name}"
+  
